@@ -1,0 +1,6 @@
+{
+  "name": "MUNJIZ",
+  "description": "Enterprise-Grade AI document intelligence, workflow automation, and multi-tenant cloud operations. Developed by ICON CODE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
